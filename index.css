@@ -1,0 +1,30 @@
+img{
+    width: 200px;
+    margin-left: 90px;
+}
+#hh{
+    text-align: center;
+    font-size: 90px;
+    
+}
+div{
+    color: white;
+}
+.box1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 50px;
+
+}
+.box2{
+    font-size: 40px;
+}
+.box3{
+    font-size: 20px;
+}
+.new1{
+    font-size: 40px;
+}
+body{
+    background-image: url('backimg.jpg');
+}
